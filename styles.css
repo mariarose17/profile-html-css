@@ -1,0 +1,54 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  .title {
+    color:green;
+    font-size: 18px;
+  }
+  
+  
+  .page-header{
+      text-align: center;
+  }
+  .profilepic{
+      width: 100%;
+     
+}
+.contactme
+{
+    text-align: center;
+    color:maroon;
+}
+#butn
+{
+    background-color: maroon;
+    color:beige;
+    float: right;
+    
+}
+
+h1{
+    color: maroon;
+}
+
+#submitform
+ {
+   border-style: solid;
+   border-radius: 10px;
+   border-color: black;
+   padding: 20px;
+ }
+
+ .pstyle{
+     font-weight: bold;
+ }
+
+ .tablehead{
+     color: maroon;
+ }
+
